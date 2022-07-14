@@ -509,11 +509,12 @@ font-size: 14.14px;
     border-color: rgb(204, 204, 204);
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
-    
     width: 279px;
+    text-align: center;
     height: 95px;
- 
-  }
+    font-family: "Janna LT";
+    font-size: 22.29px;
+}
 .mainmenu a:hover {
     color: #80ad2d;
 }
@@ -2080,9 +2081,17 @@ button.imgnext.slick-arrow img {
 
     z-index: 9999;
 }
-button.imgprev.slick-arrow,button.imgnext.slick-arrow {
-    display: none !important;
+
+.partnerslider .partnerimgslider img{
+    width: 224px;
+    height: 79px;
 }
+.slidermordeen .moredimgslider img {
+    width: 156px;
+    height: 69px;
+}
+
+
 
 
 .newstwosection
