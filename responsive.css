@@ -3722,7 +3722,7 @@ width: 4vw;
 
 
 }
-@media only screen and (min-width: 150px)and (max-width:400px){
+@media only screen and (max-width:400px){
 
 
     body {
@@ -3851,13 +3851,12 @@ width: 4vw;
     /*Branch Page */
     span.p2,
     p.p1 {
-        font-size: 1.6vw;
+        font-size: 1.2vw;
     }
     .divtext {
-        font-size: 1.6vw;
-        right: 39px;
-        top: 42px;
-     
+        font-size: 1.2vw;
+        right: 30px;
+        top: 50%;
     }
     .branchname, .golocation a {
         font-size: 7px;
